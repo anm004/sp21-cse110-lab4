@@ -7,11 +7,19 @@ Debugging
 Network
 
 3.) The file is citylots.json
+
 4.) The initiator was part2.js
+
 5.) The file is 11.7 MB
+
 6.) The file took 1.76s to download.
+
 7.) Chrome/90.0.4430.85
+
 8.) Server: Apache
+
 9.) Tue, 26 Jan 2021 22:14:13 GMT
+
 10.) application/json
+
 11.) fetch('./citylots.json')
